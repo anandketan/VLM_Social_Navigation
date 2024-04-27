@@ -9,8 +9,8 @@ Central to our methodology is the adept use of VLMs, which enables our system to
 ## Citations:
 
 [1] Wang, Weizheng, et al. ”NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph
-Transformer and Preference Learning.” arXiv preprint arXiv:2304.05979 (2023).
+Transformer and Preference Learning.” arXiv preprint arXiv:2304.05979 (2023). <br>
 [2] Nguyen, Duc M., et al. ”Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social
-Human Navigation Dataset.” arXiv preprint arXiv:2303.14880 (2023).
+Human Navigation Dataset.” arXiv preprint arXiv:2303.14880 (2023). <br>
 [3] Karnan, Haresh, et al. ”Socially compliant navigation dataset (SCAND): A large-scale dataset of demonstra-
-tions for social navigation.” IEEE Robotics and Automation Letters 7.4 (2022): 11807-11814.
+tions for social navigation.” IEEE Robotics and Automation Letters 7.4 (2022): 11807-11814. <br>
